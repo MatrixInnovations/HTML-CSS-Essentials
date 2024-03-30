@@ -1,0 +1,25 @@
+body{
+	background-image: url();
+	background-size: cover;
+}
+
+
+h2 {
+	color: #AA4139;
+	text-align: center;
+	border: 5px solid rgba(255, 176, 170, 0); /*the `a` in `rgba` is the alpha and it is the property that set the color transparency*/
+	cursor: pointer;
+}
+
+p {
+	color: pink;
+}
+
+p {
+	color: green;
+}
+
+li {
+	list-style: none;
+	display: inline-block;
+}
